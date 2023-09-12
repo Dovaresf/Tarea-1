@@ -11,7 +11,6 @@ La batimetría óptica está respaldada por el principio de que la cantidad tota
 La combinación de SDB y las infraestructuras geoespaciales de sistemas de computación en la nube como *Google Earth Engine*, brindan la oportunidad de efectuar preprocesamientos, procesamientos y análisis espaciotemporales a gran escala, a partir de códigos que se desarrollan en lenguaje de programación *Java Script*, donde se pueden utilizar imágenes multiespectrales de misiones satelitales tales como Lansat-8 y Sentinel-2, que a través de la combinación de bandas espectrales, permite el monitoreo y estudio del entorno marino. 
 
 <img src="1.jpg" width="450">
-
 [Ejemplo mapa de batimetría por satélite](https://simar.conabio.gob.mx/arrecifesam/)
 
 ## **Misiones satélitales para la adquisición de imágenes multiespectrales**
@@ -29,7 +28,6 @@ Las imágenes multiespectrales Landsat 8 son las que se obtienen mediante el sat
 El satélite Landsat 8 lleva a bordo dos sensores ópticos: el OLI (Operational Land Imager) y el TIRS (Thermal Infrared Sensor). El sensor OLI captura imágenes en nueve bandas espectrales que abarcan desde el visible hasta el infrarrojo de onda corta, con resoluciones espaciales de 15 y 30 metros. El sensor TIRS captura imágenes en dos bandas espectrales en el infrarrojo térmico, con una resolución espacial de 100 metros.
 
 <img src="2.jpg" width="450">
-
 [Misión satélital](https://www.upr.org/utah-news/2021-01-13/space-dynamics-lab-in-logan-central-to-nasa-space-weather-research-project)
 
 ## **Referencias**
